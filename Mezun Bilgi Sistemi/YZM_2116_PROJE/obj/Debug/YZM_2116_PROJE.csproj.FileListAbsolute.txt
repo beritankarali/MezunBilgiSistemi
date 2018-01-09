@@ -1,0 +1,9 @@
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 2.dönem\Veriyapıları\Mezun Bilgi Sistemi\YZM_2116_PROJE\YZM_2116_PROJE\YZM_2116_PROJE\bin\Debug\YZM_2116_PROJE.exe.config
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 2.dönem\Veriyapıları\Mezun Bilgi Sistemi\YZM_2116_PROJE\YZM_2116_PROJE\YZM_2116_PROJE\bin\Debug\YZM_2116_PROJE.exe
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 2.dönem\Veriyapıları\Mezun Bilgi Sistemi\YZM_2116_PROJE\YZM_2116_PROJE\YZM_2116_PROJE\bin\Debug\YZM_2116_PROJE.pdb
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 2.dönem\Veriyapıları\Mezun Bilgi Sistemi\YZM_2116_PROJE\YZM_2116_PROJE\YZM_2116_PROJE\obj\Debug\YZM_2116_PROJE.csprojResolveAssemblyReference.cache
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 2.dönem\Veriyapıları\Mezun Bilgi Sistemi\YZM_2116_PROJE\YZM_2116_PROJE\YZM_2116_PROJE\obj\Debug\YZM_2116_PROJE.Form1.resources
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 2.dönem\Veriyapıları\Mezun Bilgi Sistemi\YZM_2116_PROJE\YZM_2116_PROJE\YZM_2116_PROJE\obj\Debug\YZM_2116_PROJE.Properties.Resources.resources
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 2.dönem\Veriyapıları\Mezun Bilgi Sistemi\YZM_2116_PROJE\YZM_2116_PROJE\YZM_2116_PROJE\obj\Debug\YZM_2116_PROJE.csproj.GenerateResource.Cache
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 2.dönem\Veriyapıları\Mezun Bilgi Sistemi\YZM_2116_PROJE\YZM_2116_PROJE\YZM_2116_PROJE\obj\Debug\YZM_2116_PROJE.exe
+C:\Users\Beritan Karali\Desktop\Dersler\3.sınıf 2.dönem\Veriyapıları\Mezun Bilgi Sistemi\YZM_2116_PROJE\YZM_2116_PROJE\YZM_2116_PROJE\obj\Debug\YZM_2116_PROJE.pdb
